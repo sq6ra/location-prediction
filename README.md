@@ -2,7 +2,8 @@
 machine learning approaches for location predicting  
 
  - implemented KNN based weigited average methods for location predicting 
- - also explored other methods such as SVM, Naive bayes, logistic regression. 
+ - explored other methods such as SVM, Naive bayes, logistic regression. 
+ - explored Scikit learn, and some python ploting libs 
 
 
 
